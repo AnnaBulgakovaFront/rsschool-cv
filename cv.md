@@ -39,7 +39,7 @@ function likes(names) {
 ```
 
 **Work experience**
-https://github.com/AnnaBulgakovaFront/rsschool-cv/tree/gh-pages
+https://github.com/AnnaBulgakovaFront/rsschool-cv/
 
 
 **Education**
